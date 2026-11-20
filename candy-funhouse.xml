@@ -2,6 +2,37 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>Fanta Dark Cherry (UK) - 330mL</title>
+      <link>https://candyfunhouse.ca/products/fanta-dark-cherry-uk-330ml</link>
+      <description>
+      &lt;table border="0"&gt;
+  &lt;tr&gt;
+    &lt;td width="200"&gt;&lt;img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/files/fanta-dark-cherry-uk-330ml-Candy-Funhouse.png?v=1782332088"&gt;&lt;/td&gt;
+    &lt;td valign="bottom"&gt;
+      &lt;p&gt;
+
+        &lt;strong&gt;Vendor: &lt;/strong&gt;Fanta&lt;br&gt;
+        &lt;strong&gt;Type: &lt;/strong&gt;Snacks&lt;br&gt;
+        &lt;strong&gt;Price: &lt;/strong&gt;
+            0.99
+      &lt;/p&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td colspan="2"&gt;&lt;h2 style="text-align: center;"&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;meta charset="utf-8"&gt;Sweet, Tangy and Totally Cherrylicious&lt;br&gt;
+&lt;/h2&gt;
+&lt;p&gt;As you pull open this tab you'll be spritzed with a sweet dark cherry fizz. A bold tasting, limited edition dark cherry soda pop that is reminiscent of a cherry Tootsie Pop. Every sip is sharp and tangy with a seriously succulent cherry infused kick!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;330ml&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+    </description>
+      <guid isPermaLink="false">https://candyfunhouse.ca/products/7683632070715</guid>
+      <pubDate>2026-06-25T08:59:00-04:00</pubDate>
+    </item>
+    <item>
       <title>Chex Cereal Cinnamon - 12oz **BB Dec 15 2026**</title>
       <link>https://candyfunhouse.ca/products/chex-cereal-cinnamon-12oz</link>
       <description>
@@ -763,6 +794,6 @@
     <link>https://homeserver42.github.io/candy-funhouse.xml</link>
     <description>Candy Funhouse Sweet Deals</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Nov 2026 06:00:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 20:00:00 +0000</lastBuildDate>
   </channel>
 </rss>

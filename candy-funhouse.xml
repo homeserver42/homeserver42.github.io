@@ -2,6 +2,32 @@
 <rss version="2.0">
   <channel>
     <item>
+      <title>Chex Cereal Cinnamon - 12oz **BB Dec 15 2026**</title>
+      <link>https://candyfunhouse.ca/products/chex-cereal-cinnamon-12oz</link>
+      <description>
+      &lt;table border="0"&gt;
+  &lt;tr&gt;
+    &lt;td width="200"&gt;&lt;img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/files/chex-cereal-cinnamon-12oz-Candy-Funhouse-2026.png?v=1784829823"&gt;&lt;/td&gt;
+    &lt;td valign="bottom"&gt;
+      &lt;p&gt;
+
+        &lt;strong&gt;Vendor: &lt;/strong&gt;Chex Mix&lt;br&gt;
+        &lt;strong&gt;Type: &lt;/strong&gt;Snacks&lt;br&gt;
+        &lt;strong&gt;Price: &lt;/strong&gt;
+            4.99
+      &lt;/p&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td colspan="2"&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+    </description>
+      <guid isPermaLink="false">https://candyfunhouse.ca/products/7720080048187</guid>
+      <pubDate>2026-07-23T14:04:57-04:00</pubDate>
+    </item>
+    <item>
       <title>Amos Halloween Peelerz Mummies - 6oz</title>
       <link>https://candyfunhouse.ca/products/amos-halloween-peelerz-mummies-6oz</link>
       <description>
@@ -737,6 +763,6 @@
     <link>https://homeserver42.github.io/candy-funhouse.xml</link>
     <description>Candy Funhouse Sweet Deals</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Nov 2026 06:00:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 06:00:09 +0000</lastBuildDate>
   </channel>
 </rss>

@@ -2,6 +2,36 @@
 <rss xmlns:ns0="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
     <item>
+      <title>St-Michel Chocolate Galettes Cookies, French Butter Biscuits, 121g - $4.99</title>
+      <link>https://www.amazon.ca/dp/B0HSCJ63SJ</link>
+      <enclosure url="https://m.media-amazon.com/images/I/51o+YnRP7JL._AC_UL320_.jpg" type="image/jpeg" length="0" />
+      <ns0:content url="https://m.media-amazon.com/images/I/51o+YnRP7JL._AC_UL320_.jpg" medium="image" type="image/jpeg" />
+      <ns0:thumbnail url="https://m.media-amazon.com/images/I/51o+YnRP7JL._AC_UL320_.jpg" />
+      <description>&lt;img src="https://m.media-amazon.com/images/I/51o+YnRP7JL._AC_UL320_.jpg" alt="St-Michel Chocolate Galettes Cookies, French Butter Biscuits, 121g - $4.99" style="max-width:300px;height:auto;" /&gt;&lt;br /&gt;$4.99</description>
+      <guid isPermaLink="false">amazon-snack-B0HSCJ63SJ</guid>
+      <pubDate>Mon, 23 Nov 2026 06:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>St-Michel French Butter Cookies, Traditional Buttery Biscuit, 180g - $6.79</title>
+      <link>https://www.amazon.ca/dp/B0HSD78TXB</link>
+      <enclosure url="https://m.media-amazon.com/images/I/51E4E8gs1zL._AC_UL320_.jpg" type="image/jpeg" length="0" />
+      <ns0:content url="https://m.media-amazon.com/images/I/51E4E8gs1zL._AC_UL320_.jpg" medium="image" type="image/jpeg" />
+      <ns0:thumbnail url="https://m.media-amazon.com/images/I/51E4E8gs1zL._AC_UL320_.jpg" />
+      <description>&lt;img src="https://m.media-amazon.com/images/I/51E4E8gs1zL._AC_UL320_.jpg" alt="St-Michel French Butter Cookies, Traditional Buttery Biscuit, 180g - $6.79" style="max-width:300px;height:auto;" /&gt;&lt;br /&gt;$6.79</description>
+      <guid isPermaLink="false">amazon-snack-B0HSD78TXB</guid>
+      <pubDate>Mon, 23 Nov 2026 06:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Snack Factory Pretzel Crisps - Gluten Free Mediterranean Herb, 141 Grams - $5.49</title>
+      <link>https://www.amazon.ca/dp/B0HRLLXXNK</link>
+      <enclosure url="https://m.media-amazon.com/images/I/51v+AoKRxJL._AC_UL320_.jpg" type="image/jpeg" length="0" />
+      <ns0:content url="https://m.media-amazon.com/images/I/51v+AoKRxJL._AC_UL320_.jpg" medium="image" type="image/jpeg" />
+      <ns0:thumbnail url="https://m.media-amazon.com/images/I/51v+AoKRxJL._AC_UL320_.jpg" />
+      <description>&lt;img src="https://m.media-amazon.com/images/I/51v+AoKRxJL._AC_UL320_.jpg" alt="Snack Factory Pretzel Crisps - Gluten Free Mediterranean Herb, 141 Grams - $5.49" style="max-width:300px;height:auto;" /&gt;&lt;br /&gt;$5.49</description>
+      <guid isPermaLink="false">amazon-snack-B0HRLLXXNK</guid>
+      <pubDate>Mon, 23 Nov 2026 06:00:08 +0000</pubDate>
+    </item>
+    <item>
       <title>Snack Factory Pretzel Crisps - Gluten Free Original, 141 Grams - $5.49</title>
       <link>https://www.amazon.ca/dp/B0HRL16LY9</link>
       <enclosure url="https://m.media-amazon.com/images/I/51NTl4Cz8wL._AC_UL320_.jpg" type="image/jpeg" length="0" />
@@ -1012,6 +1042,6 @@ FREE delivery Nov 19 - 23 Or fastest delivery Nov 17 - 19</description>
     <link>https://homeserver42.github.io/amazon-snacks.xml</link>
     <description>Amazon Snacks</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Nov 2026 06:00:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 06:00:08 +0000</lastBuildDate>
   </channel>
 </rss>

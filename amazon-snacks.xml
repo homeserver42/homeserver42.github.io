@@ -2,6 +2,16 @@
 <rss xmlns:ns0="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
     <item>
+      <title>Britannia 50-50 Sweet and Salty Crackers, 62 g Each, Pack of 4, 248 g Total - $4.99</title>
+      <link>https://www.amazon.ca/dp/B0HSJ8XGK8</link>
+      <enclosure url="https://m.media-amazon.com/images/I/61xwutyAJtL._AC_UL320_.jpg" type="image/jpeg" length="0" />
+      <ns0:content type="image/jpeg" url="https://m.media-amazon.com/images/I/61xwutyAJtL._AC_UL320_.jpg" medium="image" />
+      <ns0:thumbnail url="https://m.media-amazon.com/images/I/61xwutyAJtL._AC_UL320_.jpg" />
+      <description>$4.99</description>
+      <guid isPermaLink="false">amazon-snack-B0HSJ8XGK8</guid>
+      <pubDate>Tue, 24 Nov 2026 20:56:49 +0000</pubDate>
+    </item>
+    <item>
       <title>St-Michel Chocolate Galettes Cookies, French Butter Biscuits, 121g - $4.99</title>
       <link>https://www.amazon.ca/dp/B0HSCJ63SJ</link>
       <enclosure url="https://m.media-amazon.com/images/I/51o+YnRP7JL._AC_UL320_.jpg" type="image/jpeg" length="0" />
@@ -1042,6 +1052,6 @@ FREE delivery Nov 19 - 23 Or fastest delivery Nov 17 - 19</description>
     <link>https://homeserver42.github.io/amazon-snacks.xml</link>
     <description>Amazon Snacks</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Nov 2026 06:00:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 20:56:49 +0000</lastBuildDate>
   </channel>
 </rss>
